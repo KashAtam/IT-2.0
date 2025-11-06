@@ -1,0 +1,52 @@
+#mycont {
+  width: 90%;
+  padding: 5px 5%;
+  height: fit-content;
+  margin: 3% auto;
+  justify-content: center;
+}
+
+form {
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 15px;
+  font-size: 3rem;
+}
+
+#masthead {
+  display: flex;
+  justify-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+#cont1 {
+  background-color: rgb(255, 220, 192);
+  padding: 50px;
+  border-radius: 20px;
+  margin-right: 50px;
+  margin-top: 80px;
+}
+
+input {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+#cont2 {
+  background-color: rgb(255, 220, 192);
+  padding: 50px;
+  border-radius: 20px;
+  margin-right: 50px;
+  margin-bottom: 80px;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  background-color: black;
+  border-radius: 15px;
+  color: ghostwhite;
+  text-align: center;
+}
