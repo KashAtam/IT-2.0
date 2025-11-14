@@ -1,0 +1,87 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2% 3%;
+  padding: 3% 5%;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+#master {
+  display: flex;
+  gap: 900px;
+  background-color: #f5f5f5;
+}
+
+nav{
+  display: flex;
+  gap: 5px;
+}
+
+#intro {
+  background-image: url("images/home2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  width: 80%;
+  font-size: 2rem;
+  margin-top: 50px;
+  margin-bottom: 70px;
+  border-radius: 0 0 0 200px;
+}
+
+#cardgrp{
+  display: flex;
+   height: 400PX;
+}
+.card{
+  text-align: center;
+  width: 250PX;
+  justify-content: center;
+ 
+}
+
+#txtimg{
+  display: flex;
+ width: 750px;
+  margin: 50px;
+  gap: 20px;
+}
+
+#txt{
+  
+  justify-content: left;
+ text-align: start;
+}
+
+.icon{
+  display: flex;
+}
+
+#review{
+  background-color: rgb(246, 234, 219);
+  text-align: center;
+  padding: 100px;
+  height: 420px;
+  width: 800px;
+ justify-content: center;
+  text-align: center;
+  border-radius: 40px;
+}
+
+#subcard{
+  display: flex;
+  gap: 12px;
+  padding: 15px;
+}
+
+.sub{
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  justify-content: center;
+  
+
+}
+
+
